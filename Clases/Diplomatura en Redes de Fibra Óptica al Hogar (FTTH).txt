@@ -1,0 +1,56 @@
+						25 de Marzo de 2025
+
+EQUIPO DOCENTE  
+
+Profesor:  Ing. Schmidberg Eduardo : linkedin.com/in/eduardo-schmidberg-53460b2
+
+Profesor: Ing. Massone Juan carlos: linkedin.com/in/juan-carlos-massone-6a97b681
+
+Profesora: Ing. Renzi Silvana Belen: linkedin.com/in/silvana-belen-renzi-21470ab1
+
+Profesor: Ing. Lucas Samyn: linkedin.com/in/lucas-samyn-30b3741a3
+
+Profesor: Ing. Goyret Pablo Gastón: linkedin.com/in/pablo-gastón-goyret-26b38b88
+
+Profesor: Ing. Penna Diego: linkedin.com/in/diego-penna
+
+Profesor: Ing. Valdez Javier: linkedin.com/in/valdezjavier
+
+Profesor: Ing. Garcia Pablo Gabriel:  linkedin.com/in/pablo-garcia-6b216352
+
+Profesor: Ing Marcos Toledo:
+
+Coordinación : Lic. Almada Arias Maricel 
+
+
+
+1ra. Clase de Diplomatura en Redes de Fibra Óptica al Hogar (FTTH).
+
+Clase 3
+
+*Que función cumple un enlace en la red de Telecomunicaciones?
+es un canal de conexión que permite transmitir y recibir información entre dos o más dispositivos. Los enlaces pueden ser físicos o lógicos, y pueden utilizar uno o más enlaces físicos. 
+
+*Cuando se indica Plantel Exterior, ? a que se refiere en una red?
+Existe Plan exterior aéreo y subterráneo. Todo lo que es cableado, El plantel exterior es todo lo que está fuera del nodo, son los enlaces, que comunican nodos o nodos con terminales
+
+* Los terminales de una red pueden ser 
+a) Modems b) Telefonos c) TV d) Radio base
+* Una fibra óptica multimodo se usa en distancias de 10 kms Falso
+* La fibra óptica esta preparada para transmitir una energía/potencia elecromagnetica Verdadero
+*Hay variantes de la fibra óptica monomodo ?Se anima a nombrarlas?
+* Los sistemas ópticos funcionan con diferentes longitudes de onda. Verdadero
+9) La atenuación de un enlace con fibra óptica depende de la longitud de onda de trabajo. Verdadero
+* Ademas de atenuación ?Que otros fenómenos perturban la transmisión óptica? Dispersión, curvatura, reflexión.los factores climaticos van a afectar en los efectos opticos que vimos, como atenuacion o las dispersiones en sus diferentes modalidades.
+
+IV- Definición de DB, DBM y ORl
+Definición: la relación matemática (logarítmica) entre la potencia de entrada con la potencia de salida se denomina "Decibeles (db)".
+Relación matemática: 10 log (Pout/Pim) (db)
+EN nuestro caso de estudio, fibras ópticas, es un medio de transmisión cuya atenuación se lo expresa de la siguiente forma db/km.
+Definición: la relación matemática (logarítmica) entre un valor absoluto de potencia y un miliwatt se denomina "Decibeles referidos a 1mw (dBm)"
+Relación matemática: 10 log (p/1mW) (dBm)
+Definición: la relación matemática (logarítmica) entre la potencia de entrada con la potencia reflejada se denomina "ORL: optical return Loss (db)"
+Relación matemática: 10 log (Pin/PR) (dB).
+V. Calculo de atenuación en un enlace óptico.
+ 
+
